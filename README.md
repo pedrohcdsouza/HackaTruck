@@ -12,4 +12,7 @@
   <img src="https://skillicons.dev/icons?i=apple" width="35px" alt="Apple Icon">
 </p>
 
-**SaudeAí** é um projeto mobile (texto)
+**_SaudeAí_** é um aplicativo mobile desenvolvido durante o curso **_HackaTruck Makerspace_**, com o objetivo de aprimorar práticas em **_Cloud Services_** usando **_Swift_**, com foco em serviços cognitivos.
+
+O app utiliza uma API pública para fornecer informações úteis, como calendário de vacinação e lista de medicamentos, adaptados à região do usuário no Brasil, com dados disponibilizados pelo SUS.
+
