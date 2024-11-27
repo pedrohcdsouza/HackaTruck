@@ -1,15 +1,15 @@
 [Português](README.md) | [English](README.en.md)
 
-<p align="center"><a href=""><img width=100% alt="" src="" /></a></p>
-<h1>imagem aqui</h1>
+<p align="center"><a href=""><img width=80% alt="" src="https://github.com/pedrohcdsouza/HackaTruck/blob/main/imgs/int-img2.png" /></a></p>
 
-<h2 align="center">SaudeAÍ: (descrição)</h2>
-
-<hr>
+<h2 align="center">SaudeAí: Projeto de desenvolvimento mobile para simplificar o acesso à saúde pública.</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift" width="40px" alt="Swift Icon">
-  <img src="https://skillicons.dev/icons?i=postman" width="40px" alt="Postman Icon">
-  <img src="https://skillicons.dev/icons?i=apple" width="40px" alt="Apple Icon">
+  <img src="https://skillicons.dev/icons?i=swift" width="35px" alt="Swift Icon">
+  <img src="https://skillicons.dev/icons?i=postman" width="35px" alt="Postman Icon">
+  <img src="https://github.com/pedrohcdsouza/HackaTruck/blob/main/imgs/node-red-icon.png" width="30px" alt="Node-RED Icon">
+  <img src="https://github.com/pedrohcdsouza/HackaTruck/blob/main/imgs/xcode-icon.png" width="35px" alt="XCode Icon">
+  <img src="https://skillicons.dev/icons?i=apple" width="35px" alt="Apple Icon">
 </p>
 
+**SaudeAí** é um projeto mobile (texto)
