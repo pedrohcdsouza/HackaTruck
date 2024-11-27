@@ -16,6 +16,19 @@
 
 O app utiliza uma API pública para fornecer informações úteis, como calendário de vacinação e lista de medicamentos, adaptados à região do usuário no Brasil, com dados disponibilizados pelo SUS.
 
-_demonstração:_
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/370b55dd-8551-4146-acad-8d3bb87ca172" controls width="600">
+    Seu navegador não suporta este vídeo.
+  </video>
+</div>
 
+<h3>Como utilizar</h3>
+Para testar o sistema, em um aparelho com MacOS, utilize a IDE X-Code para abrir a <a href="https://github.com/pedrohcdsouza/HackaTruck/tree/main/SaudeAi">pasta core do projeto.</a>
+<h5>Note que afim de protótipo, o banco de dados e a API não retornarão resposta.</h5>
 
+<h3>Desenvolvedores</h3>
+<a href="https://github.com/becadev">@becadev</a>: Design & Telas
+<br>
+<a href="https://github.com/MatheusLuizSoares">@MatheusLuizSoares</a>: Telas
+<br>
+<a href="https://github.com/pedrohcdsouza">@pedrohcdsouza</a>: Banco de dados & Integração
