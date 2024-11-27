@@ -1,6 +1,6 @@
 [Português](README.md) | [English](README.en.md)
 
-<p align="center"><a href=""><img width=80% alt="" src="https://github.com/pedrohcdsouza/HackaTruck/blob/main/imgs/int-img2.png" /></a></p>
+<p align="center"><a href=""><img width=80% alt="" src="https://github.com/pedrohcdsouza/HackaTruck/blob/main/imgs/init-screen-en.png" /></a></p>
 
 <h2 align="center">SaudeAí: A mobile development project to simplify access to public healthcare.</h2>
 
