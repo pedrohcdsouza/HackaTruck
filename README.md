@@ -16,3 +16,6 @@
 
 O app utiliza uma API pública para fornecer informações úteis, como calendário de vacinação e lista de medicamentos, adaptados à região do usuário no Brasil, com dados disponibilizados pelo SUS.
 
+_demonstração:_
+
+
