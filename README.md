@@ -23,8 +23,17 @@ O app utiliza uma API pública para fornecer informações úteis, como calendá
 </div>
 
 <h3>Como utilizar</h3>
-Para testar o sistema, em um aparelho com MacOS, utilize a IDE X-Code para abrir a <a href="https://github.com/pedrohcdsouza/HackaTruck/tree/main/SaudeAi">pasta core do projeto.</a>
-<h5>Note que afim de protótipo, o banco de dados e a API não retornarão resposta.</h5>
+<p>
+  Para testar o protótipo do SaudeAí, siga os passos abaixo:
+</p>
+<ol>
+  <li>Certifique-se de que está usando um dispositivo com macOS.</li>
+  <li>Abra a <a href="https://github.com/pedrohcdsouza/HackaTruck/tree/main/SaudeAi">pasta core do projeto</a> na IDE Xcode.</li>
+  <li>Execute o projeto para simular o app.</li>
+</ol>
+<p>
+  <strong>Observação:</strong> Por se tratar de um protótipo, o banco de dados e a API pública não retornarão respostas funcionais.
+</p>
 
 <h3>Desenvolvedores</h3>
 <a href="https://github.com/becadev">@becadev</a>: Design & Telas
@@ -32,3 +41,4 @@ Para testar o sistema, em um aparelho com MacOS, utilize a IDE X-Code para abrir
 <a href="https://github.com/MatheusLuizSoares">@MatheusLuizSoares</a>: Telas
 <br>
 <a href="https://github.com/pedrohcdsouza">@pedrohcdsouza</a>: Banco de dados & Integração
+
