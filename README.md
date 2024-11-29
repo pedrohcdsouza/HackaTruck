@@ -36,7 +36,7 @@ O app utiliza uma API pública para fornecer informações úteis, como calendá
 </p>
 
 <h3>Desenvolvedores</h3>
-<a href="https://github.com/madu">@madudev</a>: Idealizadora & Telas
+<a href="https://github.com/mariaedrdalima">@mariaedrdalima</a>: Idealizadora & Telas
 <br>
 <a href="https://github.com/becadev">@becadev</a>: Design & Telas
 <br>
