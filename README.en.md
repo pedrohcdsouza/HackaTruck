@@ -36,7 +36,7 @@ The app leverages a public API to provide useful information, such as vaccinatio
 </p>
 
 <h3>Developers</h3>
-<a href="https://github.com/madu">@madudev</a>: Idealizer & Screens
+<a href="https://github.com/mariaedrdalima">@mariaedrdalima</a>: Idealizer & Screens
 <br>
 <a href="https://github.com/becadev">@becadev</a>: Design & Screens
 <br>
